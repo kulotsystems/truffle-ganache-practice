@@ -1,4 +1,4 @@
-### Metacoin
+### Truffle and Ganache Practice
 Trying out
 [Truffle](https://trufflesuite.com/truffle/)
 and
